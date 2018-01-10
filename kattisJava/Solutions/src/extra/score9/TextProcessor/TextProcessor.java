@@ -13,6 +13,12 @@ import java.util.StringTokenizer;
 import javax.swing.JFileChooser;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
+/*
+Look into:
+https://stackoverflow.com/questions/2560262/generate-all-unique-substrings-for-given-string
+https://en.wikipedia.org/wiki/Suffix_tree
+ */
+
 public class TextProcessor {
     private static final String PATH = "./Solutions/src/";
 
@@ -25,11 +31,16 @@ public class TextProcessor {
             int w = io.getInt();
 
             //int[] starts = new int[q], counts = new int[q];
+            int[] counts = new int[text.length - w + 1];
             int start, end, at, count;
             CharNode root, current;
 
             for (int i = 0; i < q; i++) {
                 start = io.getInt() - 1;
+                if (counts[start] > 0) {
+                    io.println(counts[start]);
+                    continue;
+                }
                 end = start + w;
                 count = 0;
                 root = new CharNode();
@@ -52,6 +63,7 @@ public class TextProcessor {
 
                 }
 
+                counts[start] = count;
                 io.println(count);
             }
 
