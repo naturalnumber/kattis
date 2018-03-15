@@ -1,9 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ed0fa8c-dd48-4967-90f1-f3b6ae7d603f" name="Default" comment="Week 3">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week4/A/DVDs.java" />
+    <list default="true" id="7ed0fa8c-dd48-4967-90f1-f3b6ae7d603f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/.idea/codeStyles/codeStyleConfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Fire.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Fire1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Fire2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Fire3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Optimization/Fire_1_L_2Q.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Optimization/Fire_1_L_2Qpp.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Optimization/Fire_1_L_2QppIO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Optimization/Fire_1_L_2QppIO2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Optimization/Fire_1_L_2QppIO3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Optimization/Fire_1_L_2QppIO3G.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Optimization/Fire_1_L_2QppIO3G2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Optimization/Fire_1_L_APair.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Optimization/Fire_1_L_BoolR.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Optimization/Fire_1_L_MinA.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Optimization/Fire_1_L_NB2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Optimization/Fire_1_L_NBase.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Optimization/Fire_1_L_NBase2_.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Optimization/Fire_1_Linked.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Optimization/Fire_2_NewBest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Optimization/Fire_2_QLess.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/Optimization/arch/Fire_1_L_NBase_IfGoaling.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week5/A/SIn/SInM1.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week6/A/FlowFree_1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week6/A/FlowFree_n1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/Week6/A/FlowFree_n2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/Solutions/src/extra/score4/Fire2/Fire_2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kattisJava/out/production/kattisJava/Week5/A/SIn/SInM1.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/kattisJava/.idea/workspace.xml" afterPath="$PROJECT_DIR$/kattisJava/.idea/workspace.xml" />
     </list>
@@ -31,8 +59,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="246" />
     <option name="y" value="24" />
-    <option name="width" value="1394" />
-    <option name="height" value="995" />
+    <option name="width" value="1388" />
+    <option name="height" value="998" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -65,7 +93,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,8 +142,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,7 +261,9 @@
       <updated>1515591394046</updated>
       <workItem from="1519102439898" duration="262000" />
       <workItem from="1519517565219" duration="17000" />
-      <workItem from="1519518620615" duration="27000" />
+      <workItem from="1519518620615" duration="51000" />
+      <workItem from="1520034611002" duration="189000" />
+      <workItem from="1521075170067" duration="16000" />
     </task>
     <task id="LOCAL-00001" summary="Week 3">
       <created>1519102477696</created>
@@ -242,18 +272,24 @@
       <option name="project" value="LOCAL" />
       <updated>1519102477696</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Week 4">
+      <created>1519518660527</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1519518660527</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="306000" />
+    <option name="totallyTimeSpent" value="535000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="246" y="24" width="1394" height="995" extended-state="0" />
+    <frame x="246" y="24" width="1388" height="998" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -264,7 +300,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964029" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24927746" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -276,6 +312,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -288,7 +325,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Week 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 3" />
+    <MESSAGE value="Week 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
